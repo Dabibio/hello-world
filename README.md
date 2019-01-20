@@ -7,3 +7,6 @@ Now you have two branches, master and readme-edits. They look exactly the same, 
 
 
 This is a atom editor test for GitHub.
+
+
+Another test in test-atom branch.
